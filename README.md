@@ -1,7 +1,7 @@
 # Suman Dontha 👩🏾‍💻
 ##### Full-stack Developer and UX Designer (Reach me: dontha.suman@gmail.com)
 
-I'm Suman from India, and I do working on Development and Designing. I really enjoy learning new languages and frameworks like ReactJS / Native, VueJS, MongoDB etc. Furthermore, I also enjoy wire framing, UI, UX and design in general. 
+I'm Suman from India, and I do work on Development and Designing. I really enjoy learning new languages and frameworks like ReactJS / Native, VueJS, MongoDB etc. Furthermore, I also enjoy wire framing, UI, UX and design in general. 
 
 ## Skills and Experience
 * ReactJS
