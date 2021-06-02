@@ -1,15 +1,18 @@
-###  Hi there 👋, my name is Suman Dontha 👩🏾‍💻
+### Hi there 👋, Suman Dontha 👩🏾‍💻
+#### Full-stack Developer and UX Designer
+I'm Suman from India, and I do working on Development and Designing. I really enjoy learning new languages and frameworks like ReactJS / Native, VueJS, MongoDB etc. Furthermore, I also enjoy wire framing, UI, UX and design in general. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumanDontha16)](https://github.com/anuraghazra/github-readme-stats)
+Skills: REACT / JS / VUE JS / HTML / CSS
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Demo Projects 
+- 🌱 I’m currently learning VueJS,  
+- 📫 How to reach me: dontha.suman@gmail.com 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SumanDontha16)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/SumanDontha/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@donthasuman)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SumanDontha16&show_icons=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SumanDontha16)  
+
+![Profile views](https://gpvc.arturio.dev/SumanDontha16)  
