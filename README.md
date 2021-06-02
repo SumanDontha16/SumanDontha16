@@ -1,8 +1,16 @@
-### Hi there 👋, Suman Dontha 👩🏾‍💻
+### Hi there 👋, I'm Suman Dontha 👩🏾‍💻
 #### Full-stack Developer and UX Designer
+
 I'm Suman from India, and I do working on Development and Designing. I really enjoy learning new languages and frameworks like ReactJS / Native, VueJS, MongoDB etc. Furthermore, I also enjoy wire framing, UI, UX and design in general. 
 
-Skills: REACT / JS / VUE JS / HTML / CSS
+### Skills and Experience
+* ReactJS
+* NodeJS
+* Express
+* HTML / CSS / JS
+* MongoDB
+* API
+
 
 - 🔭 I’m currently working on Demo Projects 
 - 🌱 I’m currently learning VueJS,  
