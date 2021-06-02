@@ -18,6 +18,4 @@ I'm Suman from India, and I do work on Development and Designing. I really enjoy
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SumanDontha16&show_icons=true)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SumanDontha16)  
-
 ![Profile views](https://gpvc.arturio.dev/SumanDontha16)  
