@@ -1,5 +1,6 @@
 ###  Hi there 👋, my name is Suman Dontha 👩🏾‍💻
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumanDontha16)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
