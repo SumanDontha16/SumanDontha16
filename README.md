@@ -1,3 +1,5 @@
+<img src="https://github.com/SumanDontha16/SumanDontha16/blob/main/Logo_Dontha.jpg" width="100%"/>
+
 # Suman Dontha 👩🏾‍💻
 ##### Full-stack Developer and UX Designer (Reach me: dontha.suman@gmail.com)
 
