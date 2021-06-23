@@ -15,9 +15,7 @@ I'm Suman from India, and I do work on Development and Design. I really enjoy le
 * API
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30' width='30'>](https://github.com/SumanDontha16)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30' width='30'>](https://www.linkedin.com/in/SumanDontha/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30' width='30'>](https://twitter.com/@donthasuman)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30' width='30'>](https://github.com/SumanDontha16)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30' width='30'>](https://www.linkedin.com/in/SumanDontha/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30' width='30'>](https://twitter.com/@donthasuman)  
 
 
 ![Profile views](https://gpvc.arturio.dev/SumanDontha16)  
